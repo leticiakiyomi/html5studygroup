@@ -7,3 +7,5 @@ Abra este diretorio no terminal e execute os seguintes comandos:
 * *npm install*
 * *bower install*
 * *gulp*
+
+Branch Letícia
